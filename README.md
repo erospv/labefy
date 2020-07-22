@@ -1,8 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Labenu | Full-Stack Web Development Bootcamp
+Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
 
-## Available Scripts
+![Screenshot_1](https://user-images.githubusercontent.com/45580434/79641791-06e1c100-8170-11ea-8ecf-b6c889805d55.png)
+<br>
 
-In the project directory, you can run:
+# Frontend - Projeto Labefy
+[Documentação da API](https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest)
 
 ### `npm start`
 
