@@ -1,71 +1,70 @@
-# Labenu | Full-Stack Web Development Bootcamp
-Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
-
-![Screenshot_1](https://user-images.githubusercontent.com/45580434/79641791-06e1c100-8170-11ea-8ecf-b6c889805d55.png)
-<br>
 
 # Frontend - Projeto Labefy
 [Documentação da API](https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest)
 
-### `npm start`
+<br>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> Status do Projeto: :heavy_check_mark: :warning: em desenvolvimento
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<br>
 
-### `npm test`
+## Stack
+Projeto de Frontend Web feito utilizando ReactJS, HTML e CSS; 
+e como gerenciador de pacotes do NodeJS o npm.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `npm run build`
+## Sobre
+Ideia central do projeto foi criar uma aplicação que permite o gerenciamento básico de playlists de música. 
+Integração com API criada pela Labenu [Documentação da API](https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest)
+Integração com API do Spotify em desenvolvimento.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Funcionalidades 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [X] Criar playslists
+- [X] Adicionar músicas à playlist criada
+- [X] Deletar playslists
+- [X] Deletar músicas da playlist
 
-### `npm run eject`
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Instruções para rodar
+Por ser um projeto realizado com ReactJS, há a necessidade do NodeJS. Com ele instalado basta seguir os seguintes passos.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+No terminal, clone o projeto:
+```
+git clone 
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Entre na pasta do projeto:
+```
+cd labefy/app
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Instale as dependências:
+```
+npm install
+```
 
-## Learn More
+Execute a aplicação:
+```
+npm start 
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Canais de comunicação
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Eros Pinder Valente**: *Desenvolvedor web full-stack*
 
-### Code Splitting
+- [Linkedin](https://www.linkedin.com/in/erospv/)
+- [Github](https://github.com/erospv)
+- [Email](eros.pv@gmail.com)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+<br>
 
-### Analyzing the Bundle Size
+## Licença
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+The [MIT License]() (MIT)
 
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Copyright :copyright: 2020 - whatslab
