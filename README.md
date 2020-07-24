@@ -64,6 +64,6 @@ npm start
 
 ## Licença
 
-The [MIT License]() (MIT)
+The [MIT License](https://github.com/erospv/labefy/blob/master/LICENSE.md) (MIT)
 
 Copyright :copyright: 2020 - whatslab
