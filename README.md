@@ -1,8 +1,6 @@
 
 # Frontend - Projeto Labefy
 
-<br>
-
 > Status do Projeto: :warning: em desenvolvimento
 
 <br>
@@ -16,6 +14,7 @@ e como gerenciador de pacotes do NodeJS o npm.
 ## Sobre
 Ideia central do projeto foi criar uma aplicação que permite o gerenciamento básico de playlists de música. 
 Integração com API criada pela Labenu [Documentação da API](https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest)
+<br>
 Integração com API do Spotify em desenvolvimento.
 
 <br>
