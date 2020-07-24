@@ -1,6 +1,5 @@
 
 # Frontend - Projeto Labefy
-[Documentação da API](https://documenter.getpostman.com/view/7549981/SztBc8eT?version=latest)
 
 <br>
 
